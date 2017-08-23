@@ -12,9 +12,9 @@ GEM
       hashie
       octokit
       sinatra
-    prpr-checklist (0.1.0)
-      prpr
     prpr-mention_comment (0.1.1)
+      prpr
+    prpr-mention_reviewers (0.1.1)
       prpr
     prpr-slack (0.1.1)
       prpr
@@ -37,9 +37,12 @@ PLATFORMS
 
 DEPENDENCIES
   prpr
-  prpr-checklist
   prpr-mention_comment
+  prpr-mention_reviewers
   prpr-slack
 
+RUBY VERSION
+   ruby 2.4.1p111
+
 BUNDLED WITH
-   1.10.6
+   1.14.6
