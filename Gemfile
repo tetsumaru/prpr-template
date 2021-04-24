@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-ruby '2.4.1'
+ruby '3.0.1'
 
 gem 'prpr'
 gem 'prpr-slack'
